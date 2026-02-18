@@ -3,6 +3,8 @@
 
 <h3>PREVIEW</h3>
 <img width="840" height="62" alt="image" src="https://github.com/user-attachments/assets/449717bf-bdf2-45fa-bba1-6271253aeade" />
+<h3>DOWNLOAD</h3>
+<p>https://github.com/dawid9707/IDM_Toolbar_MD3_theme/releases</p>
 <h3>HOW TO USE</h3>
 <p>1. Download the toolbar theme in ZIP file.</p>
 <p>2. Extract all files from ZIP file to <IDM Root Folder>\<Toolbar>\ ("C:\Program Files (х86)\Internet Download Manager\Toolbar\" by default)</p>
